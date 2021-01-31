@@ -1,1 +1,1 @@
-# multimodal-hate-speech-detection
+# Multimodal hate speech detection
